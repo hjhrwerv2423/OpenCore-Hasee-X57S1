@@ -873,48 +873,31 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>AAPL,Gfx324</key>
+				<data>
+				AQAAAA==
+				</data>
 				<key>AAPL,GfxYTile</key>
 				<data>
 				AQAAAA==
 				</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AgBcig==
+				AgBRig==
 				</data>
-				<key>AAPL00,PanelCycleDelay</key>
+				<key>backlight-smoother-interval</key>
 				<data>
-				+gAAAA==
+				BwAAAA==
 				</data>
-				<key>AAPL00,PanelPowerDown</key>
+				<key>backlight-smoother-steps</key>
 				<data>
-				PAAAAA==
-				</data>
-				<key>AAPL00,PanelPowerOff</key>
-				<data>
-				EQAAAA==
-				</data>
-				<key>AAPL00,PanelPowerOn</key>
-				<data>
-				GQEAAA==
-				</data>
-				<key>AAPL00,PanelPowerUp</key>
-				<data>
-				MAAAAA==
-				</data>
-				<key>GraphicsBacklightSetup-0</key>
-				<data>
-				AAABAAAAAACqqqqqqqqqqqqqqqqqqqqqAAAAAAAAAAAA
-				AAAAAAAAAA==
-				</data>
-				<key>GraphicsDisplaySetup</key>
-				<data>
-				AAABAAAAAAAEAAAAjAoAAAEAAAAAAAEAAAADAAAAkGyK
-				DwAAAAAACgAAQAYAAFAAAAAAAAAAAAAAAC4AAAAAAAAA
-				AAAAAAgAAAAgAAAAASAAAAAIAAAAAAABAAEAAAAAAAEA
-				AAAEAAAAAAAAAQEAAAAAAAAAAABACwAACAcAAAAtAAAB
-				AAAAAAAAAAA=
+				LQAAAA==
 				</data>
 				<key>enable-backlight-registers-fix</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>enable-backlight-smoother</key>
 				<data>
 				AQAAAA==
 				</data>
@@ -922,7 +905,7 @@
 				<data>
 				AQAAAA==
 				</data>
-				<key>hda-gfx</key>
+				<key>enable-dbuf-early-optimizer</key>
 				<data>
 				AQAAAA==
 				</data>
@@ -930,22 +913,9 @@
 				<data>
 				AgAAAA==
 				</data>
-				<key>model</key>
-				<string>Intel Iris Plus Graphics G7</string>
-				<key>rps-control</key>
+				<key>igfxpavp</key>
 				<data>
 				AQAAAA==
-				</data>
-				<key>saved-config</key>
-				<data>
-				RwAAAAAAAAAAAAAAAAAAAAAAAwACAFGKAHFFjTcAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAABAQEBAAYQQaACA0AAAAAAAAAABAqQbIoPAApA
-				BlAAAAAuAAAACAAgACAACABACwgHWgABAAEAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAA
 				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0xD,0x2)</key>
