@@ -1,6 +1,7 @@
 # OpenCore For Hasee KingBook X57S1
 
- - OpenCore 0.7.8
+ - OpenCore 0.8.1
+ - macOS 12.4
  - Intel Core i7-1065G7
  - Hasee HINS02 ( Intel 495 Series Chipset, Intel Ice Point-LP, Intel Ice Lake-U )
  - Crucial 8 GB DDR4-2666 x2
